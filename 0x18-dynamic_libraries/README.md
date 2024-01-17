@@ -1,2 +1,0 @@
- Dynamic libraries
-C
